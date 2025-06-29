@@ -17,5 +17,9 @@ The map uses:
 - `C` — collectible
 - `E` — exit
 - `P` — player's starting point
-
-Example:
+  
+## 🖼️ Graphics
+- Uses MiniLibX
+- A window displays the game
+- ESC or window close button quits the game cleanly
+- Image is refreshed on every move

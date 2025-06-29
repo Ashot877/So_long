@@ -1,4 +1,4 @@
-# 🐬 So Long — 42 Yerevan project
+#  So Long — 42 Yerevan project
 
 **"So Long and thanks for all the fish!"**
 A simple 2D game made with **MiniLibX**, where the player must collect all collectibles and reach the exit.

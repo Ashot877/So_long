@@ -56,8 +56,9 @@ Example:
 
 ## 📚 Documentation
 
-* 🇬🇧 [English version](https://github.com/Ashot877/So_long/blob/main/english.md)
-* 🇦🇲 [Հայերեն տարբերակ](https://github.com/Ashot877/So_long/blob/main/armenian.md)
+* 🇬🇧 [English version](https://github.com/Ashot877/So_long/blob/main/README_EN.md)
+* 🇦🇲 [Հայերեն տարբերակ](https://github.com/Ashot877/So_long/blob/main/README_HY.md)
+
 
 ---
 
